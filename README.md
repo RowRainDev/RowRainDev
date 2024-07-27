@@ -10,4 +10,5 @@ raincloud adındaki şirketim [RAİNCLOUD](https://discord.gg/raincloud), ve yan
 
 # Kullandığım Yazılımlar
 ![](https://skillicons.dev/icons?i=windows,ubuntu,ps,c,cs,cpp,cloudflare,wordpress,md,gcp,java,mysql,vscode,figma,gradle,maven,idea&perline=9)
+![](https://rowrain.nicepage.io/Sayfa-1.html)
 <br />
