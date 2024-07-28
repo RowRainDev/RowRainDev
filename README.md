@@ -10,20 +10,7 @@ raincloud adındaki şirketim [RAİNCLOUD](https://discord.gg/raincloud), ve yan
 
 # Kullandığım Yazılımlar
 ![](https://skillicons.dev/icons?i=windows,ubuntu,ps,c,cs,cpp,cloudflare,wordpress,md,gcp,java,mysql,vscode,figma,gradle,maven,idea&perline=9)
-<div align="center">
-  <a href="https://www.instagram.com/rowrain.dev/==" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/rowrain" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:rowrain@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.rowrain.nicepage.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-34DB88?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</div>
+
 
 # Mevcut Projelerim: "RAİNCLOUD"
 ![](https://cdn.discordapp.com/attachments/1212085829103648799/1251833164045746176/Renkli-SaydamCalsma-yuzeyi-4.png?ex=66a6117c&is=66a4bffc&hm=e324e5db8c109e180c450b139579e318c6569b7d9ed76786f0155e8dba4e4e39&)
@@ -42,6 +29,19 @@ raincloud adındaki şirketim [RAİNCLOUD](https://discord.gg/raincloud), ve yan
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+<div align="center">
+  <a href="https://www.instagram.com/rowrain.dev/==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/rowrain" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:rowrain@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.rowrain.nicepage.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-34DB88?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 <br />
