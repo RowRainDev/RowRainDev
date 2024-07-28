@@ -1,4 +1,18 @@
 # Hakkımda
+<div align="center">
+  <a href="https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/ozaii1337" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:ozaiiofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.ozaiitech.com.tr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-34DB88?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 👋Merhaba ben RowRain **raincloud,ve wsct gibi projelerim vardır.**.
 
 Kendi projelerimi veya yapmış olduğum işleri burda opensource olarak yazmak için bu hesabı açtım açıkçası çok fazla, bu platformu kullanacağımı sanmıyorum. onun dışında insanlara kaliteli VDS veya bedava web panel vermek için raincloud diye şirket açtım.
