@@ -1,7 +1,7 @@
 # Hakkımda
 👋Merhaba ben RowRain **raincloud,ve wsct gibi projelerim vardır.**.
 
-Kendi projelerimi veya yapmış olduğum işleri burda opensource olarak yazmak için bu hesabı açtım açıkçası çok fazla, bu platformu kullanacağımı sanmıyorum. onun dışında insanlara kaliteli VDS veyaz bedava web panel vermek için raincloud diye şirket açtım.
+Kendi projelerimi veya yapmış olduğum işleri burda opensource olarak yazmak için bu hesabı açtım açıkçası çok fazla, bu platformu kullanacağımı sanmıyorum. onun dışında insanlara kaliteli VDS veya bedava web panel vermek için raincloud diye şirket açtım.
 
 raincloud adındaki şirketim [RAİNCLOUD](https://discord.gg/raincloud), ve yanında proje sunucularım için [WSCT](https://discord.gg/qbXNVwcM7H), burdan bakabilirsiniz. ekstra [Web Adresim](https://rowrain.nicepage.io) burdan göz atabilirsiniz.
 
