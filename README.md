@@ -13,4 +13,21 @@ raincloud adındaki şirketim [RAİNCLOUD](https://discord.gg/raincloud), ve yan
 
 # Mevcut Projelerim: "RAİNCLOUD"
 ![](https://cdn.discordapp.com/attachments/1212085829103648799/1251833164045746176/Renkli-SaydamCalsma-yuzeyi-4.png?ex=66a6117c&is=66a4bffc&hm=e324e5db8c109e180c450b139579e318c6569b7d9ed76786f0155e8dba4e4e39&)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 <br />
