@@ -1,4 +1,4 @@
-# linklerim
+# Hakkımda
 <div align="center">
   <a href="https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/-Website-34DB88?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
-# Hakkımda
 
 👋Merhaba ben RowRain **raincloud,ve wsct gibi projelerim vardır.**.
 
