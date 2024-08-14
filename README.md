@@ -9,7 +9,7 @@ raincloud adındaki şirketim [RAİNCLOUD](https://discord.gg/raincloud), ve yan
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/795685342329700352)
 
 # Kullandığım Yazılımlar
-![](https://skillicons.dev/icons?i=windows,ubuntu,ps,c,cs,cpp,cloudflare,wordpress,md,gcp,java,mysql,vscode,figma,gradle,maven,idea&perline=9)
+![](https://skillicons.dev/icons?i=windows,ubuntu,ps,c,cs,cpp,cloudflare,wordpress,md,gcp,java,mysql,vscode,figma,gradle,maven,html,css,js,idea&perline=9)
 
 
 # Mevcut Projelerim: "RAİNCLOUD"
