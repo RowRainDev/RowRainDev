@@ -6,5 +6,5 @@
 - wsct: roleplay minecraft role play deneyimini dark olarak sivil olarak eğlenceli bir roleplay deneyimi sunar.
 - sürekli aktif olamayan birçok sunucu ve skript içeriği oluşturmuş ve aktif olarak oluşturmaktayım.
 
-# 💜 Hizmet mi istiyorsunuz ?
+# 💜 Ben ile Çalışmak'mı İstiyorsunuz? 
 - eğer bir içerik üreticisi veya topluluk yöneticisi veya normal bir şahıs iseniz farketmeksizin size yardımcı olabilirim iletişim için rowrain@outlook.com
