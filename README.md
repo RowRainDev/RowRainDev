@@ -7,4 +7,4 @@
 - sürekli aktif olamayan birçok sunucu ve skript içeriği oluşturmuş ve aktif olarak oluşturmaktayım.
 
 # 💜 Ben ile Çalışmak'mı İstiyorsunuz? 
-- eğer bir içerik üreticisi veya topluluk yöneticisi veya normal bir şahıs iseniz farketmeksizin size yardımcı olabilirim iletişim için rowrain@outlook.com
+- eğer bir içerik üreticisi veya topluluk yöneticisi veya normal bir şahıs iseniz farketmeksizin size yardımcı olabilirim iletişim için rowrain@outlook.com www.rowdev.rf.gd
