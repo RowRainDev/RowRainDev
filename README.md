@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm RowRain</h1>
 <h3 align="center">Full Stack Developer | 7+ Years Experience | Raincloud @ CEO</h3>
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=rowraindev&color=blueviolet&style=flat-square)
-  </div>
 <hr>
 <h3> ・ Who am I?</h3>
 <p>Hi, I'm Canberk. For over 7 years, driven by creativity and the desire to build, I've been developing software and design projects. <br>
