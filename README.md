@@ -25,7 +25,7 @@ I always strive to create a unique style in every project I work on. So far, I'v
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ## 🌠For more information about myself
-<a href="https://rowdev.rf.gd" type="submit">
+<a href="https://rowdev.rf.gd" type="submit" value="tıkla">
 
 ## 🌟 Featured Projects
 
