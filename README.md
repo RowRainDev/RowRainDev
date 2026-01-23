@@ -27,6 +27,7 @@ I always strive to create a unique style in every project I work on. So far, I'v
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-2C2F33?style=flat-square&logo=minecraft&logoColor=white)
 ## 🌠For more information about myself
 <a href="https://rowdev.rf.gd">
   <img src="https://img.shields.io/badge/WEBSITE-Visit-blue?style=for-the-badge" />
