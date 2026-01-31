@@ -14,7 +14,7 @@ Building scalable systems, game mechanics and cloud infrastructure.<br>
 </p>
 ---
 ## ⚡ Skills
-
+---
 <div align="center">
 ### 🧠 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
