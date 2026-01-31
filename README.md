@@ -52,7 +52,7 @@ Building scalable systems, game mechanics and cloud infrastructure.<br>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
----
+<hr>
 <p align="center">
 <a href="https://rowdev.rf.gd">
   <img src="https://img.shields.io/badge/🚀_Visit_Website-111111?style=for-the-badge"/>
