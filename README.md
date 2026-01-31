@@ -12,7 +12,6 @@
 Building scalable systems, game mechanics and cloud infrastructure.<br>
 100+ shipped projects. Still shipping. No brakes.
 </p>
----
 ## ⚡ Skills
 
 <div align="center">
