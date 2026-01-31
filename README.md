@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://web.raincloud.com.tr:40006/uploads/Frame_6_1769892131_e9953596.png" width="160" />
+  <img src="http://web.raincloud.com.tr:40006/uploads/Frame_6_1769892131_e9953596.png"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm RowRain</h1>
