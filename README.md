@@ -7,11 +7,34 @@
 </div>
 
 
-<hr>
-<h3> ・ Who am I?</h3>
-<p>Hi, I'm Canberk. For over 7 years, driven by creativity and the desire to build, I've been developing software and design projects. <br>
-I always strive to create a unique style in every project I work on. So far, I've produced over 100 projects, designs, and various creative works and I'm still moving forward without giving up.</p>
-<hr>
+<div align="center">
+
+## 👤 Who am I?
+
+<details open>
+<summary>🇬🇧 English</summary>
+
+Hi, I'm **Canberk**.  
+For over **7 years**, driven by creativity and the desire to build, I've been developing software and design projects.
+
+I focus on crafting a **unique style** in every project.  
+So far, I've delivered **100+ projects, designs, and creative works** — and I'm still shipping without slowing down.
+
+</details>
+
+<details>
+<summary>🇹🇷 Türkçe</summary>
+
+Selam, ben **Canberk**.  
+**7+ yıldır** yaratıcılık ve üretme isteğiyle yazılım ve tasarım projeleri geliştiriyorum.
+
+Her projede **kendime özgü bir stil** oluşturmayı hedefliyorum.  
+Bugüne kadar **100+ proje, tasarım ve yaratıcı iş** ürettim ve hâlâ durmadan devam ediyorum.
+
+</details>
+
+</div>
+
 
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
