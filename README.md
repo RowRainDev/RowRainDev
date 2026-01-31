@@ -77,11 +77,20 @@ Bugüne kadar **100+ proje, tasarım ve yaratıcı iş** ürettim ve hâlâ durm
 </div>
 
 
-## 🌠For more information about myself
+<div align="center">
+
+## 🌐 Explore More
+
 <a href="https://rowdev.rf.gd">
-  <img src="https://img.shields.io/badge/WEBSITE-Visit-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Visit_My_Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-## 🌟 Featured Projects
+<br><br>
 
-Check out my pinned repositories below to see my best work! 👇
+## ⭐ Featured Projects
+
+Building systems. Shipping fast. Breaking limits.  
+Check the pinned repositories below 👇
+
+</div>
+
