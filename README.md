@@ -1,13 +1,11 @@
 ![rowrain](http://web.raincloud.com.tr:40006/uploads/Frame_6_1769892131_e9953596.png)
 <h1 align="center">Hi 👋, I'm RowRain</h1>
 <div align="center">
-### 💻 Full Stack Developer  
-### 🌠 7+ Years Experience  
-### 🔥 CEO @ RainCloud  
 
-🚀 Code • Scale • Automate • Dominate
+### ⚡ Full Stack Developer &nbsp;&nbsp;•&nbsp;&nbsp; 🌠 7+ Years Experience &nbsp;&nbsp;•&nbsp;&nbsp; 🔥 CEO @ RainCloud
 
 </div>
+
 
 <hr>
 <h3> ・ Who am I?</h3>
