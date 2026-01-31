@@ -24,7 +24,7 @@ Building scalable systems, game mechanics and cloud infrastructure.<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br>
+
 
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@ Building scalable systems, game mechanics and cloud infrastructure.<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<br>
+
 
 ### ☁️ DevOps / Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -45,7 +45,7 @@ Building scalable systems, game mechanics and cloud infrastructure.<br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E4C92?style=flat-square&logo=pterodactyl&logoColor=white)
 
-<br>
+
 
 ### 🎮 Game / Custom Systems
 ![Skript](https://img.shields.io/badge/Skript-2C2F33?style=flat-square&logo=minecraft&logoColor=white)
