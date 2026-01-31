@@ -12,11 +12,8 @@
 Building scalable systems, game mechanics and cloud infrastructure.<br>
 100+ shipped projects. Still shipping. No brakes.
 </p>
----
-### ⚡ Skills
-
 <div align="center">
-
+##⚡ Skills
 ### 🧠 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
