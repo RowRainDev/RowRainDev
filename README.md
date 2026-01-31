@@ -12,12 +12,10 @@
 Building scalable systems, game mechanics and cloud infrastructure.<br>
 100+ shipped projects. Still shipping. No brakes.
 </p>
-
 ---
 ## ⚡ Skills
 
 <div align="center">
-
 ### 🧠 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -33,7 +31,6 @@ Building scalable systems, game mechanics and cloud infrastructure.<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
 ### ☁️ DevOps / Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -42,24 +39,16 @@ Building scalable systems, game mechanics and cloud infrastructure.<br>
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E4C92?style=flat-square&logo=pterodactyl&logoColor=white)
-
 ### 🎮 Game / Custom Systems
 ![Skript](https://img.shields.io/badge/Skript-2C2F33?style=flat-square&logo=minecraft&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 </div>
-
-
 ---
-
 <p align="center">
-
 <a href="https://rowdev.rf.gd">
   <img src="https://img.shields.io/badge/🚀_Visit_Website-111111?style=for-the-badge"/>
 </a>
-
 </p>
-
 <p align="center">
 ⭐ Check my pinned repositories for featured projects
 </p>
